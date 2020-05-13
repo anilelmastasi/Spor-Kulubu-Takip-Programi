@@ -1,0 +1,12 @@
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\bin\Debug\Spor Kulübü Takip Programı.exe.config
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\bin\Debug\Spor Kulübü Takip Programı.exe
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\bin\Debug\Spor Kulübü Takip Programı.pdb
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor Kulübü Takip Programı.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor_Kulübü_Takip_Programı.Form1.resources
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor_Kulübü_Takip_Programı.Properties.Resources.resources
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor Kulübü Takip Programı.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor Kulübü Takip Programı.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor Kulübü Takip Programı.exe
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor Kulübü Takip Programı.pdb
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor_Kulübü_Takip_Programı.Form2.resources
+C:\Users\Samsung\source\repos\Spor Kulübü Takip Programı\Spor Kulübü Takip Programı\obj\Debug\Spor_Kulübü_Takip_Programı.Form3.resources
